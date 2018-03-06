@@ -1,0 +1,2 @@
+include 'micro-services'
+include 'micro-slf4j-impl'
